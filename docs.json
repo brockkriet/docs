@@ -14,7 +14,7 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "HSLC Kenton",
             "pages": [
               "index",
               "quickstart",
@@ -22,7 +22,7 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "CNB Woodsfield",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
